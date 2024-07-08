@@ -1,4 +1,4 @@
 -O exercício de fazer a sequência finonacci, sempre é um bom exercício para praticar; 
 -Fazer o exercicio de achar a raiz quadrada e/ou cúbica de um número;
 -Fazer um exercício on você ordene um array de forma crescente e/ou decrescente;
-
+##
